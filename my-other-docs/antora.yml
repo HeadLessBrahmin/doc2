@@ -1,0 +1,6 @@
+name: document2
+title: Dokument dvě
+version: '1'
+nav:
+- modules/ROOT/nav.adoc
+- modules/module-one/nav.adoc

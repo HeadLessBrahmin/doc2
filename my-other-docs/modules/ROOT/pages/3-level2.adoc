@@ -1,0 +1,5 @@
+== Další popisný nadpis
+
+Už nevím co sem mám házet. Vždycky můžu něco přidat, abych na tom ukázal funkcionalitu. Teď je to jenom spíš o tom dosáhnout funkční struktury složek a věcí.
+
+WARNING: Jedno jablko denně a doktor bude bez práce! 
