@@ -1,0 +1,5 @@
+== Podnabídka
+
+Tohle je podnabídka druhého modulu Dokumentu dvě. Slouží jenom k ukázce struktury.
+
+Uživatelskou příručku bych asi držel jenom v jednom dokumentu, rozděleném na moduly. Bude to jednodušší na správu. 

@@ -1,5 +1,5 @@
-= Něco
+= Druhý modul v jednom dokumentu
 
-== Něco Něco
+== Nadpis
 
-Něco něco něco. Velmi popisný text. 
+Tohle je druhý modul v rámci jednoho dokumentu, narozdíl od toho prvního, který měl modul jenom jeden. 
