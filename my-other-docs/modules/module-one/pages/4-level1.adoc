@@ -1,5 +1,9 @@
-= Druhý modul v jednom dokumentu
+:moduledir: ..
+:attachmentsdir: {moduledir}\attachments
+:examplesdir: {moduledir}\examples
+:imagesdir: {moduledir}\images
+:partialsdir: {moduledir}\partials= Druhý modul v jednom dokumentu
 
 == Nadpis
 
-Tohle je druhý modul v rámci jednoho dokumentu, narozdíl od toho prvního, který měl modul jenom jeden. 
+Tohle je druhý modul v rámci jednoho dokumentu, narozdíl od toho prvního, který měl modul jenom jeden.

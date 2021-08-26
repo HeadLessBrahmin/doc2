@@ -1,3 +1,9 @@
+:moduledir: ..
+:attachmentsdir: {moduledir}\attachments
+:examplesdir: {moduledir}\examples
+:imagesdir: {moduledir}\images
+:partialsdir: {moduledir}\partials
+
 == Něco nějaký text já nevím
 
 Dochází mi fantazie čím to tady vyplňovat. Funkce už jsem nějaké ukázal a na požádání můžu nějaké přidat. Ale sám z hlavy už nevím jaké.
