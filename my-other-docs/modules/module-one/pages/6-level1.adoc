@@ -1,0 +1,16 @@
+== The Unexpected English Page
+
+What is this travesty, you ask? Well, I put this here, so that I'm able to continue testing the new offline search engine. More specifically, so that I can compare the performance between Czech and English.
+
+So let's get to it... I guess.
+
+=== Your Friendly Neighborhood Headline
+
+Are those shy Eurasian footwear, cowboy chaps, or jolly earthmoving headgear?
+
+[quote]
+The beige hue on the waters of the loch impressed all, including the French queen, before she heard that symphony again, just as young Arthur wanted.
+
+=== Nobody Expects the Spanish Pangram!
+
+Benjamín pidió una bebida de kiwi y fresa. Noé, sin vergüenza, la más exquisita champaña del menú ("Benjamin ordered a kiwi and strawberry drink. Noah, without shame, the most exquisite champagne on the menu") uses all diacritics and the foreign letters k and w.
