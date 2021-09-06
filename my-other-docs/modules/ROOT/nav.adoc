@@ -1,2 +1,2 @@
-* xref:3-level1.adoc[Podnabídka dvě]
-** xref:3-level2.adoc[Pod-podnabídka dvě]
+* xref:3-level1.adoc[Nabídka dvě]
+** xref:3-level2.adoc[Podnabídka dvě]
